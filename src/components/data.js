@@ -50,7 +50,7 @@ export const productDataTwo = [
     alt: "Jarrito",
     name: "Jarrito",
     desc:
-      "All natural, fruit flavored sodas that comes in Strawberry, Lime, Guava, Pineapple, Mandarin, Manog and many more! .",
+      "Fruit flavored sodas that comes in Strawberry, Lime, Guava, Pineapple, Mango and more.",
     price: "$1.50",
     button: "Add to cart",
   },
@@ -58,7 +58,7 @@ export const productDataTwo = [
     img: product6,
     alt: "Jugo de Piña",
     name: "Jugo de Piña",
-    desc: "Freshly squuezed pineapple with coconut cream.",
+    desc: "Freshly squuezed pineapple mixed with delicious coconut cream.",
     price: "$2.50",
     button: "Add to cart",
   },
